@@ -35,3 +35,36 @@ VA_project/python_work/model_v1/data/
 VA_project/python_work/creating_dev_sample_v2/data/
 VA_project/video_meetings_navid/meeting_3_model_v1_nand_next_steps/GMT20230302-154037_Recording_2560x1440.mp4
 VA_project/video_meetings_navid/meeting_3_model_v1_nand_next_steps/GMT20230302-154037_Recording.m4a
+NCIS/docs/API Documentation - Appriss Insights Platform.pdf
+NCIS/docs/Arrest Monitoring Data Dictionary1.2 - Copy.docx
+NCIS/docs/Arrest Monitoring Data Dictionary1.2.docx
+NCIS/docs/NCIS Data Dictionary.docx
+NCIS/docs/NCIS_XML_Service_Documentation_FINAL_v2.8.docx
+NCIS/TURO Analysis/data/NCIS_1.xlsx
+NCIS/TURO Analysis/data/NCIS_2.xlsx
+NCIS/TURO Analysis/data/NCIS_3.xlsx
+NCIS/TURO Analysis/data/NCIS_4.xlsx
+NCIS/TURO Analysis/data/NCIS_5.xlsx
+NCIS/TURO Analysis/data/NCIS_6.xlsx
+VA_project/Risk_scoring_work/data/appriss_crime_cleaned_CFconfidenceapplied_v2 - Copy.csv
+VA_project/Risk_scoring_work/data/cf_acxiomAppend_va2_10_14_2022 - Copy.csv
+VA_project/Risk_scoring_work/data/cf_agrAppend_va2_10_14_2022 - Copy.csv
+VA_project/Risk_scoring_work/data/cf_apprissAppend_va2_10_17_2022 - Copy.csv
+VA_project/Risk_scoring_work/data/crime_cut_down_v1 - Copy.csv
+VA_project/Risk_scoring_work/data/dev_sample_HeartTable_10_17_2022 - Copy.csv
+VA_project/Risk_scoring_work/data/diction_NCICcodes_descriptions_CrimeTiers_CDCTiers_as_csv - Copy.csv
+VA_project/Risk_scoring_work/excel_files/Risk Weighted Attribute Scoring.xlsx
+VA_project/Risk_scoring_work/Quiz-Intro.docx
+VA_project/local_ml_sudio_work/predictions.csv
+VA_project/front_end_for_model/modelFiles_and_docker/conda.yaml
+VA_project/front_end_for_model/modelFiles_and_docker/MLmodel
+VA_project/front_end_for_model/modelFiles_and_docker/model.pkl
+VA_project/front_end_for_model/modelFiles_and_docker/python_env.yaml
+VA_project/front_end_for_model/modelFiles_and_docker/requirements.txt
+VA_project/local_ml_sudio_work/model/conda.yaml
+VA_project/local_ml_sudio_work/model/MLmodel
+VA_project/local_ml_sudio_work/model/model.pkl
+VA_project/local_ml_sudio_work/model/python_env.yaml
+VA_project/local_ml_sudio_work/model/requirements.txt
+VA_project/front_end_for_model/creating_data_to_give_to_model/data/model_data_top_features_above_point1_v1.csv
+VA_project/front_end_for_model/batch_endpoint_data/predictions.csv

@@ -1,0 +1,1199 @@
+{
+    "DPV": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "1": {
+                "odds_ratio": 1.1780959654238405,
+                "percentage": "82.92%",
+                "threshold": "50.00%"
+            },
+            "0": {
+                "odds_ratio": 0.8488272851696189,
+                "percentage": "17.08%",
+                "threshold": "50.00%"
+            }
+        }
+    },
+    "SCF": {
+        "data_type": "continuous",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {}
+    },
+    "VACANT": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "0.0": {
+                "odds_ratio": 1.1431672275908698,
+                "percentage": "87.11%",
+                "threshold": "44.47%"
+            },
+            "1.0": {
+                "odds_ratio": 0.8012523363880492,
+                "percentage": "1.82%",
+                "threshold": "44.47%"
+            }
+        }
+    },
+    "NO STAT": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "0.0": {
+                "odds_ratio": 1.153289372148565,
+                "percentage": "85.31%",
+                "threshold": "44.47%"
+            },
+            "1.0": {
+                "odds_ratio": 0.8228571428571428,
+                "percentage": "3.62%",
+                "threshold": "44.47%"
+            }
+        }
+    },
+    "RESIDENTIAL": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "Y": {
+                "odds_ratio": 1.137997048157152,
+                "percentage": "87.73%",
+                "threshold": "44.47%"
+            },
+            "N": {
+                "odds_ratio": 0.792313081290011,
+                "percentage": "1.21%",
+                "threshold": "44.47%"
+            }
+        }
+    },
+    "MOVED_CD": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "ADDRESS": {
+                "odds_ratio": 0.9065897795819264,
+                "percentage": "0.41%",
+                "threshold": "0.21%"
+            },
+            "PO BOX": {
+                "odds_ratio": Infinity,
+                "percentage": "0.00%",
+                "threshold": "0.21%"
+            }
+        }
+    },
+    "ANK": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "77.0": {
+                "odds_ratio": 0.9477443711127406,
+                "percentage": "0.29%",
+                "threshold": "0.22%"
+            },
+            "48.0": {
+                "odds_ratio": 0.07594473791141812,
+                "percentage": "0.16%",
+                "threshold": "0.22%"
+            }
+        }
+    },
+    "ORIG_ADDRESS": {
+        "data_type": "continuous",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {}
+    },
+    "ORIG_CITY": {
+        "data_type": "continuous",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {}
+    },
+    "ORIG_STATE": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "OK": {
+                "odds_ratio": 1.311582381729205,
+                "percentage": "98.32%",
+                "threshold": "2.32%"
+            },
+            "TX": {
+                "odds_ratio": 1.0036701654937188,
+                "percentage": "0.51%",
+                "threshold": "2.32%"
+            },
+            "IA": {
+                "odds_ratio": 2.437789516456725,
+                "percentage": "0.02%",
+                "threshold": "2.32%"
+            },
+            "IL": {
+                "odds_ratio": 0.5415786337288044,
+                "percentage": "0.02%",
+                "threshold": "2.32%"
+            },
+            "MI": {
+                "odds_ratio": 1.6250609458800584,
+                "percentage": "0.01%",
+                "threshold": "2.32%"
+            },
+            "KS": {
+                "odds_ratio": 0.5138199473784143,
+                "percentage": "0.22%",
+                "threshold": "2.32%"
+            },
+            "AZ": {
+                "odds_ratio": 0.8124187256176852,
+                "percentage": "0.04%",
+                "threshold": "2.32%"
+            },
+            "CO": {
+                "odds_ratio": 0.5801720834639634,
+                "percentage": "0.05%",
+                "threshold": "2.32%"
+            },
+            "AR": {
+                "odds_ratio": 0.7614089319124704,
+                "percentage": "0.14%",
+                "threshold": "2.32%"
+            },
+            "WI": {
+                "odds_ratio": 1.6250609458800584,
+                "percentage": "0.01%",
+                "threshold": "2.32%"
+            },
+            "CA": {
+                "odds_ratio": 0.3608943794249386,
+                "percentage": "0.06%",
+                "threshold": "2.32%"
+            },
+            "MN": {
+                "odds_ratio": 0.8124644511253758,
+                "percentage": "0.01%",
+                "threshold": "2.32%"
+            },
+            "MO": {
+                "odds_ratio": 0.464099944268995,
+                "percentage": "0.05%",
+                "threshold": "2.32%"
+            },
+            "NV": {
+                "odds_ratio": 0.8124492117666179,
+                "percentage": "0.02%",
+                "threshold": "2.32%"
+            },
+            "OR": {
+                "odds_ratio": 2.437789516456725,
+                "percentage": "0.02%",
+                "threshold": "2.32%"
+            },
+            "VA": {
+                "odds_ratio": 1.0833333333333335,
+                "percentage": "0.03%",
+                "threshold": "2.32%"
+            },
+            "MT": {
+                "odds_ratio": Infinity,
+                "percentage": "0.00%",
+                "threshold": "2.32%"
+            },
+            "GA": {
+                "odds_ratio": 0.8124339699309225,
+                "percentage": "0.03%",
+                "threshold": "2.32%"
+            },
+            "AL": {
+                "odds_ratio": Infinity,
+                "percentage": "0.01%",
+                "threshold": "2.32%"
+            },
+            "LA": {
+                "odds_ratio": 1.0833333333333335,
+                "percentage": "0.03%",
+                "threshold": "2.32%"
+            },
+            "NJ": {
+                "odds_ratio": Infinity,
+                "percentage": "0.01%",
+                "threshold": "2.32%"
+            },
+            "IN": {
+                "odds_ratio": 1.6250609458800584,
+                "percentage": "0.01%",
+                "threshold": "2.32%"
+            },
+            "KY": {
+                "odds_ratio": 0.2707673139947456,
+                "percentage": "0.02%",
+                "threshold": "2.32%"
+            },
+            "OH": {
+                "odds_ratio": 4.063643013899049,
+                "percentage": "0.03%",
+                "threshold": "2.32%"
+            },
+            "NM": {
+                "odds_ratio": 1.218772856562373,
+                "percentage": "0.02%",
+                "threshold": "2.32%"
+            },
+            "ID": {
+                "odds_ratio": Infinity,
+                "percentage": "0.00%",
+                "threshold": "2.32%"
+            },
+            "FL": {
+                "odds_ratio": 0.4060468140442132,
+                "percentage": "0.06%",
+                "threshold": "2.32%"
+            },
+            "MS": {
+                "odds_ratio": 0.8124644511253758,
+                "percentage": "0.01%",
+                "threshold": "2.32%"
+            },
+            "SD": {
+                "odds_ratio": Infinity,
+                "percentage": "0.00%",
+                "threshold": "2.32%"
+            },
+            "NH": {
+                "odds_ratio": Infinity,
+                "percentage": "0.00%",
+                "threshold": "2.32%"
+            },
+            "WA": {
+                "odds_ratio": Infinity,
+                "percentage": "0.00%",
+                "threshold": "2.32%"
+            },
+            "IO": {
+                "odds_ratio": Infinity,
+                "percentage": "0.00%",
+                "threshold": "2.32%"
+            },
+            "TN": {
+                "odds_ratio": 0.1624278865686195,
+                "percentage": "0.03%",
+                "threshold": "2.32%"
+            },
+            "PA": {
+                "odds_ratio": 0.40619159827740314,
+                "percentage": "0.01%",
+                "threshold": "2.32%"
+            },
+            "AK": {
+                "odds_ratio": 0.0,
+                "percentage": "0.00%",
+                "threshold": "2.32%"
+            },
+            "MD": {
+                "odds_ratio": 0.0,
+                "percentage": "0.00%",
+                "threshold": "2.32%"
+            },
+            "WY": {
+                "odds_ratio": 0.0,
+                "percentage": "0.00%",
+                "threshold": "2.32%"
+            },
+            "UT": {
+                "odds_ratio": 0.0,
+                "percentage": "0.01%",
+                "threshold": "2.32%"
+            },
+            "S.": {
+                "odds_ratio": 0.0,
+                "percentage": "0.00%",
+                "threshold": "2.32%"
+            },
+            "NY": {
+                "odds_ratio": 0.0,
+                "percentage": "0.00%",
+                "threshold": "2.32%"
+            },
+            "NC": {
+                "odds_ratio": 0.0,
+                "percentage": "0.01%",
+                "threshold": "2.32%"
+            },
+            "NE": {
+                "odds_ratio": 0.0,
+                "percentage": "0.00%",
+                "threshold": "2.32%"
+            },
+            "ME": {
+                "odds_ratio": 0.0,
+                "percentage": "0.00%",
+                "threshold": "2.32%"
+            }
+        }
+    },
+    "ORIG_ZIP": {
+        "data_type": "continuous",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {}
+    },
+    "NCOA DATE": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "2022-06-19": {
+                "odds_ratio": NaN,
+                "percentage": "100.00%",
+                "threshold": "100.00%"
+            }
+        }
+    },
+    "MOVETYPE": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "I": {
+                "odds_ratio": 0.7924435283202709,
+                "percentage": "0.37%",
+                "threshold": "0.48%"
+            },
+            "F": {
+                "odds_ratio": 0.694923952598675,
+                "percentage": "0.58%",
+                "threshold": "0.48%"
+            }
+        }
+    },
+    "AGR_RECORD": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "N": {
+                "odds_ratio": 0.6813900612451053,
+                "percentage": "55.18%",
+                "threshold": "50.00%"
+            },
+            "Y": {
+                "odds_ratio": 1.4675881802160398,
+                "percentage": "44.82%",
+                "threshold": "50.00%"
+            }
+        }
+    },
+    "MASTER_DOB": {
+        "data_type": "continuous",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {}
+    },
+    "AGR_DOB": {
+        "data_type": "continuous",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {}
+    },
+    "CLIENT_DOB": {
+        "data_type": "continuous",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {}
+    },
+    "DEMO MATCH": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "Y": {
+                "odds_ratio": 1.3153674563333957,
+                "percentage": "51.13%",
+                "threshold": "51.13%"
+            }
+        }
+    },
+    "PROP MATCH": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "Y": {
+                "odds_ratio": 1.4242836767406997,
+                "percentage": "46.30%",
+                "threshold": "46.30%"
+            }
+        }
+    },
+    "IL_SCORE_AGR": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "1.0": {
+                "odds_ratio": 1.028231918872963,
+                "percentage": "5.39%",
+                "threshold": "12.46%"
+            },
+            "3.0": {
+                "odds_ratio": 1.0822918267164159,
+                "percentage": "9.40%",
+                "threshold": "12.46%"
+            },
+            "4.0": {
+                "odds_ratio": 1.3774013154519427,
+                "percentage": "27.23%",
+                "threshold": "12.46%"
+            },
+            "2.0": {
+                "odds_ratio": 1.0614744783296495,
+                "percentage": "7.83%",
+                "threshold": "12.46%"
+            }
+        }
+    },
+    "MATCH IL": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "Y": {
+                "odds_ratio": 1.3516158281922288,
+                "percentage": "49.85%",
+                "threshold": "49.85%"
+            }
+        }
+    },
+    "DEMO_TYPE OF DWELLING": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "S": {
+                "odds_ratio": 1.2588493451113263,
+                "percentage": "41.55%",
+                "threshold": "21.03%"
+            },
+            "M": {
+                "odds_ratio": 0.9685674443146272,
+                "percentage": "0.51%",
+                "threshold": "21.03%"
+            }
+        }
+    },
+    "DEMO_ESTIMATED INCOME": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "O": {
+                "odds_ratio": 1.645697752764456,
+                "percentage": "9.09%",
+                "threshold": "2.14%"
+            },
+            "E": {
+                "odds_ratio": 0.9308738034034476,
+                "percentage": "1.38%",
+                "threshold": "2.14%"
+            },
+            "L": {
+                "odds_ratio": 1.1289486375693272,
+                "percentage": "1.88%",
+                "threshold": "2.14%"
+            },
+            "Q": {
+                "odds_ratio": 1.5564030065267076,
+                "percentage": "1.83%",
+                "threshold": "2.14%"
+            },
+            "R": {
+                "odds_ratio": 1.7617081094589528,
+                "percentage": "1.50%",
+                "threshold": "2.14%"
+            },
+            "N": {
+                "odds_ratio": 1.0602459386231928,
+                "percentage": "8.31%",
+                "threshold": "2.14%"
+            },
+            "S": {
+                "odds_ratio": 1.5597322894090602,
+                "percentage": "1.78%",
+                "threshold": "2.14%"
+            },
+            "C": {
+                "odds_ratio": 1.0059777434408705,
+                "percentage": "0.84%",
+                "threshold": "2.14%"
+            },
+            "P": {
+                "odds_ratio": 1.6007285745155455,
+                "percentage": "1.29%",
+                "threshold": "2.14%"
+            },
+            "G": {
+                "odds_ratio": 0.8439005261648493,
+                "percentage": "1.55%",
+                "threshold": "2.14%"
+            },
+            "K": {
+                "odds_ratio": 0.9340131270511018,
+                "percentage": "1.85%",
+                "threshold": "2.14%"
+            },
+            "U": {
+                "odds_ratio": 1.264570611424596,
+                "percentage": "0.97%",
+                "threshold": "2.14%"
+            },
+            "H": {
+                "odds_ratio": 1.1695234970884936,
+                "percentage": "0.87%",
+                "threshold": "2.14%"
+            },
+            "M": {
+                "odds_ratio": 1.0589374044905153,
+                "percentage": "3.19%",
+                "threshold": "2.14%"
+            },
+            "J": {
+                "odds_ratio": 0.8389257947330897,
+                "percentage": "1.06%",
+                "threshold": "2.14%"
+            },
+            "B": {
+                "odds_ratio": 0.6610587372985596,
+                "percentage": "1.48%",
+                "threshold": "2.14%"
+            },
+            "I": {
+                "odds_ratio": 0.825001038429815,
+                "percentage": "1.89%",
+                "threshold": "2.14%"
+            },
+            "D": {
+                "odds_ratio": 0.6718230856848122,
+                "percentage": "0.62%",
+                "threshold": "2.14%"
+            },
+            "F": {
+                "odds_ratio": 0.6008945127325616,
+                "percentage": "0.79%",
+                "threshold": "2.14%"
+            },
+            "A": {
+                "odds_ratio": 0.5957693894983348,
+                "percentage": "0.53%",
+                "threshold": "2.14%"
+            }
+        }
+    },
+    "DEMO_OWN OR RENT": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "O": {
+                "odds_ratio": 1.2984247484318596,
+                "percentage": "40.07%",
+                "threshold": "20.29%"
+            },
+            "R": {
+                "odds_ratio": 0.8720604686318971,
+                "percentage": "0.50%",
+                "threshold": "20.29%"
+            }
+        }
+    },
+    "DEMO_CHILDREN": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "Y": {
+                "odds_ratio": 1.2763661634717118,
+                "percentage": "20.95%",
+                "threshold": "14.24%"
+            },
+            "N": {
+                "odds_ratio": 1.0576665253144222,
+                "percentage": "6.94%",
+                "threshold": "14.24%"
+            },
+            "U": {
+                "odds_ratio": 1.094796031467114,
+                "percentage": "14.83%",
+                "threshold": "14.24%"
+            }
+        }
+    },
+    "DEMO_MARITAL STATUS": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "M": {
+                "odds_ratio": 1.2501432050853885,
+                "percentage": "24.65%",
+                "threshold": "8.54%"
+            },
+            "S": {
+                "odds_ratio": 1.12123507933914,
+                "percentage": "16.06%",
+                "threshold": "8.54%"
+            },
+            "U": {
+                "odds_ratio": 0.9394863130650467,
+                "percentage": "1.78%",
+                "threshold": "8.54%"
+            },
+            "A": {
+                "odds_ratio": 0.776755444514435,
+                "percentage": "0.20%",
+                "threshold": "8.54%"
+            },
+            "B": {
+                "odds_ratio": 1.6251625487646295,
+                "percentage": "0.03%",
+                "threshold": "8.54%"
+            }
+        }
+    },
+    "DEMO_EDUCATION LEVEL": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "C": {
+                "odds_ratio": 1.283320777164223,
+                "percentage": "2.96%",
+                "threshold": "8.54%"
+            },
+            "B": {
+                "odds_ratio": 1.291972955652681,
+                "percentage": "16.13%",
+                "threshold": "8.54%"
+            },
+            "U": {
+                "odds_ratio": 1.07890323563065,
+                "percentage": "11.35%",
+                "threshold": "8.54%"
+            },
+            "A": {
+                "odds_ratio": 1.0582106979809904,
+                "percentage": "11.72%",
+                "threshold": "8.54%"
+            },
+            "D": {
+                "odds_ratio": 1.053518790894179,
+                "percentage": "0.56%",
+                "threshold": "8.54%"
+            }
+        }
+    },
+    "DEMO_CREDIT RATING": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "D": {
+                "odds_ratio": 1.1775508178278755,
+                "percentage": "6.20%",
+                "threshold": "4.75%"
+            },
+            "U": {
+                "odds_ratio": 1.0692199151708515,
+                "percentage": "7.39%",
+                "threshold": "4.75%"
+            },
+            "B": {
+                "odds_ratio": 1.3139440798345772,
+                "percentage": "8.67%",
+                "threshold": "4.75%"
+            },
+            "C": {
+                "odds_ratio": 1.236576699198396,
+                "percentage": "8.05%",
+                "threshold": "4.75%"
+            },
+            "A": {
+                "odds_ratio": 1.2886976973111008,
+                "percentage": "2.85%",
+                "threshold": "4.75%"
+            },
+            "F": {
+                "odds_ratio": 1.0962884197942557,
+                "percentage": "2.80%",
+                "threshold": "4.75%"
+            },
+            "G": {
+                "odds_ratio": 0.7671087603859658,
+                "percentage": "1.51%",
+                "threshold": "4.75%"
+            },
+            "E": {
+                "odds_ratio": 0.9726747132034191,
+                "percentage": "4.86%",
+                "threshold": "4.75%"
+            },
+            "H": {
+                "odds_ratio": 1.0263930625912252,
+                "percentage": "0.39%",
+                "threshold": "4.75%"
+            }
+        }
+    },
+    "DEMO_VETERAN PRESENT IN HH": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "U": {
+                "odds_ratio": 1.2024634010394346,
+                "percentage": "39.99%",
+                "threshold": "21.36%"
+            },
+            "Y": {
+                "odds_ratio": 1.5308549879709654,
+                "percentage": "2.72%",
+                "threshold": "21.36%"
+            }
+        }
+    },
+    "PDLLF": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "1.0": {
+                "odds_ratio": 1.1865881744147022,
+                "percentage": "3.63%",
+                "threshold": "3.63%"
+            }
+        }
+    },
+    "PDLSF": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "1.0": {
+                "odds_ratio": 1.2071081851721652,
+                "percentage": "8.32%",
+                "threshold": "8.32%"
+            }
+        }
+    },
+    "CREDIT REPAIR": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "1.0": {
+                "odds_ratio": 1.2831041034868944,
+                "percentage": "0.60%",
+                "threshold": "0.60%"
+            }
+        }
+    },
+    "DEBT CONSOLIDATION": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "1.0": {
+                "odds_ratio": 0.5409071180555555,
+                "percentage": "0.22%",
+                "threshold": "0.22%"
+            }
+        }
+    },
+    "LOAN AMOUNT 1": {
+        "data_type": "continuous",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {}
+    },
+    "LOAD DATE 1": {
+        "data_type": "continuous",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {}
+    },
+    "LOAD RECORDING DATE 1": {
+        "data_type": "continuous",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {}
+    },
+    "MULTIPLE PROPERTIES COUNT": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "1.0": {
+                "odds_ratio": 1.3655954279638491,
+                "percentage": "13.49%",
+                "threshold": "0.73%"
+            },
+            "2.0": {
+                "odds_ratio": 1.0755130548007603,
+                "percentage": "3.05%",
+                "threshold": "0.73%"
+            },
+            "4.0": {
+                "odds_ratio": 0.6850672946891012,
+                "percentage": "0.59%",
+                "threshold": "0.73%"
+            },
+            "3.0": {
+                "odds_ratio": 1.0308530965493985,
+                "percentage": "1.25%",
+                "threshold": "0.73%"
+            },
+            "5.0": {
+                "odds_ratio": 0.7549988246980232,
+                "percentage": "0.37%",
+                "threshold": "0.73%"
+            },
+            "9.0": {
+                "odds_ratio": 1.0446493907750918,
+                "percentage": "0.07%",
+                "threshold": "0.73%"
+            },
+            "8.0": {
+                "odds_ratio": 0.8122508744814121,
+                "percentage": "0.13%",
+                "threshold": "0.73%"
+            },
+            "42.0": {
+                "odds_ratio": Infinity,
+                "percentage": "0.00%",
+                "threshold": "0.73%"
+            },
+            "33.0": {
+                "odds_ratio": Infinity,
+                "percentage": "0.00%",
+                "threshold": "0.73%"
+            },
+            "6.0": {
+                "odds_ratio": 0.9477443711127406,
+                "percentage": "0.29%",
+                "threshold": "0.73%"
+            },
+            "11.0": {
+                "odds_ratio": 0.6962630931091344,
+                "percentage": "0.06%",
+                "threshold": "0.73%"
+            },
+            "7.0": {
+                "odds_ratio": 0.7795506349723218,
+                "percentage": "0.22%",
+                "threshold": "0.73%"
+            },
+            "12.0": {
+                "odds_ratio": 0.40609508329947175,
+                "percentage": "0.04%",
+                "threshold": "0.73%"
+            },
+            "24.0": {
+                "odds_ratio": Infinity,
+                "percentage": "0.00%",
+                "threshold": "0.73%"
+            },
+            "21.0": {
+                "odds_ratio": 0.8124492117666179,
+                "percentage": "0.02%",
+                "threshold": "0.73%"
+            },
+            "15.0": {
+                "odds_ratio": 1.218772856562373,
+                "percentage": "0.02%",
+                "threshold": "0.73%"
+            },
+            "10.0": {
+                "odds_ratio": 0.6962630931091344,
+                "percentage": "0.06%",
+                "threshold": "0.73%"
+            },
+            "14.0": {
+                "odds_ratio": 1.6251625487646295,
+                "percentage": "0.03%",
+                "threshold": "0.73%"
+            },
+            "20.0": {
+                "odds_ratio": 2.0316183044785823,
+                "percentage": "0.03%",
+                "threshold": "0.73%"
+            },
+            "13.0": {
+                "odds_ratio": 0.4061433447098976,
+                "percentage": "0.03%",
+                "threshold": "0.73%"
+            },
+            "26.0": {
+                "odds_ratio": Infinity,
+                "percentage": "0.00%",
+                "threshold": "0.73%"
+            },
+            "23.0": {
+                "odds_ratio": Infinity,
+                "percentage": "0.00%",
+                "threshold": "0.73%"
+            },
+            "17.0": {
+                "odds_ratio": Infinity,
+                "percentage": "0.01%",
+                "threshold": "0.73%"
+            },
+            "18.0": {
+                "odds_ratio": Infinity,
+                "percentage": "0.01%",
+                "threshold": "0.73%"
+            },
+            "19.0": {
+                "odds_ratio": Infinity,
+                "percentage": "0.00%",
+                "threshold": "0.73%"
+            },
+            "16.0": {
+                "odds_ratio": 0.40619159827740314,
+                "percentage": "0.01%",
+                "threshold": "0.73%"
+            },
+            "31.0": {
+                "odds_ratio": 0.0,
+                "percentage": "0.00%",
+                "threshold": "0.73%"
+            }
+        }
+    },
+    "MULTIPLE PROPERTIES FLAG": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "Y": {
+                "odds_ratio": 0.9714180731794303,
+                "percentage": "6.32%",
+                "threshold": "6.32%"
+            }
+        }
+    },
+    "OWNER OCCUPIED STATUS": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "Y": {
+                "odds_ratio": 1.4067103647441708,
+                "percentage": "14.50%",
+                "threshold": "6.61%"
+            },
+            "R": {
+                "odds_ratio": 1.161487103050257,
+                "percentage": "1.12%",
+                "threshold": "6.61%"
+            },
+            "N": {
+                "odds_ratio": 0.7979136646699271,
+                "percentage": "4.20%",
+                "threshold": "6.61%"
+            }
+        }
+    },
+    "OWNER STATUS TYPE": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "T": {
+                "odds_ratio": 1.308313238152349,
+                "percentage": "1.82%",
+                "threshold": "4.95%"
+            },
+            "O": {
+                "odds_ratio": 1.4052269018901196,
+                "percentage": "13.19%",
+                "threshold": "4.95%"
+            },
+            "I": {
+                "odds_ratio": 0.8215448256718744,
+                "percentage": "4.79%",
+                "threshold": "4.95%"
+            },
+            "P": {
+                "odds_ratio": 2.437789516456725,
+                "percentage": "0.02%",
+                "threshold": "4.95%"
+            }
+        }
+    },
+    "OWNERSHIP START DATE": {
+        "data_type": "continuous",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {}
+    },
+    "PROPERTY TYPE DESC": {
+        "data_type": "categorical",
+        "cdc_cat": "tier2",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "R": {
+                "odds_ratio": 1.337005857935369,
+                "percentage": "15.96%",
+                "threshold": "6.60%"
+            },
+            "C": {
+                "odds_ratio": 0.8470555903461388,
+                "percentage": "2.72%",
+                "threshold": "6.60%"
+            },
+            "A": {
+                "odds_ratio": 0.9905483158961583,
+                "percentage": "1.13%",
+                "threshold": "6.60%"
+            }
+        }
+    },
+    "PURCHASE PRICE": {
+        "data_type": "continuous",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {}
+    },
+    "PURCHASE RECORDING DATE": {
+        "data_type": "continuous",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {}
+    },
+    "PURCHASE SALE DATE": {
+        "data_type": "continuous",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {}
+    },
+    "BANKRUPCY": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "Y": {
+                "odds_ratio": 0.9802988145752394,
+                "percentage": "1.43%",
+                "threshold": "1.43%"
+            }
+        }
+    },
+    "BANKRUPTCY DATE": {
+        "data_type": "continuous",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {}
+    },
+    "BANKRUPTCY STATUS": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "341 UPDATE": {
+                "odds_ratio": 1.0448792789426984,
+                "percentage": "0.57%",
+                "threshold": "0.09%"
+            },
+            "FILING": {
+                "odds_ratio": 2.7891333674466203,
+                "percentage": "0.14%",
+                "threshold": "0.09%"
+            },
+            "DISCHARGE": {
+                "odds_ratio": 0.8862305553912581,
+                "percentage": "0.10%",
+                "threshold": "0.09%"
+            },
+            "DISMISSAL": {
+                "odds_ratio": 0.40619159827740314,
+                "percentage": "0.01%",
+                "threshold": "0.09%"
+            },
+            "CONVERSION": {
+                "odds_ratio": Infinity,
+                "percentage": "0.00%",
+                "threshold": "0.09%"
+            },
+            "DISCHARGED & CLOSED": {
+                "odds_ratio": 0.5415041179020372,
+                "percentage": "0.04%",
+                "threshold": "0.09%"
+            },
+            "NOTICE OF ASSETS": {
+                "odds_ratio": Infinity,
+                "percentage": "0.00%",
+                "threshold": "0.09%"
+            },
+            "DISMISSED & CLOSED": {
+                "odds_ratio": Infinity,
+                "percentage": "0.01%",
+                "threshold": "0.09%"
+            },
+            "CASE CLOSED": {
+                "odds_ratio": 0.8124644511253758,
+                "percentage": "0.01%",
+                "threshold": "0.09%"
+            },
+            "TRANSFERRED CASE": {
+                "odds_ratio": 0.0,
+                "percentage": "0.01%",
+                "threshold": "0.09%"
+            }
+        }
+    },
+    "DUI": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "Y": {
+                "odds_ratio": 1.1234501199970248,
+                "percentage": "1.12%",
+                "threshold": "1.12%"
+            }
+        }
+    },
+    "SEX OFFENDER": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "Y": {
+                "odds_ratio": 1.6251625487646295,
+                "percentage": "0.03%",
+                "threshold": "0.03%"
+            }
+        }
+    },
+    "DIGITAL FLAG": {
+        "data_type": "categorical",
+        "cdc_cat": "",
+        "data_origin": "AGR Demographics dataset",
+        "unique_row_values": {
+            "Y": {
+                "odds_ratio": 1.106143249925956,
+                "percentage": "2.09%",
+                "threshold": "2.09%"
+            }
+        }
+    }
+}
