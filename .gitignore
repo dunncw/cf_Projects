@@ -67,4 +67,5 @@ VA_project/local_ml_sudio_work/model/model.pkl
 VA_project/local_ml_sudio_work/model/python_env.yaml
 VA_project/local_ml_sudio_work/model/requirements.txt
 VA_project/front_end_for_model/creating_data_to_give_to_model/data/model_data_top_features_above_point1_v1.csv
+VA_project/front_end_for_model/VA_model_frontend_codux
 VA_project/front_end_for_model/batch_endpoint_data/predictions.csv
